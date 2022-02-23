@@ -1,2 +1,2 @@
-# day2sr.github.oi
+# sattirajeswari.github.oi
 day 2
