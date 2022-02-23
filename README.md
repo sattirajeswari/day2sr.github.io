@@ -1,2 +1,2 @@
-# day2sr.github.io
+# day2sr.github.oi
 day 2
